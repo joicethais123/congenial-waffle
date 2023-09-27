@@ -1,7 +1,7 @@
 ### boas vindas ao meu perfil 💙
 
 meu nome é joice thais
--Escotou estudando no [alura](https:www.aluracom.br)
+-Estou estudando no [alura](https:www.aluracom.br)
 -Estou me desenvolendo na linguagem do JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos de desenvolvidos 
 
